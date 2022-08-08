@@ -1,0 +1,6 @@
+2022-08-08 10:26:11,674 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-08 10:26:48,858 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: My9AprilBatchGroupIdMaven:My9AprilBatchArtifactIdMaven:0.0.1-SNAPSHOT @ D:\My9AprilBatchArtifactIdMaven\pom.xml.
+2022-08-08 10:26:55,012 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:26:55,012 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My9AprilBatchArtifactIdMaven\src\main\resources
+2022-08-08 10:26:55,018 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 10:26:55,019 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My9AprilBatchArtifactIdMaven\src\test\resources
